@@ -1,11 +1,8 @@
 # BTC-transactions-Data
 
-
-
 This dataset contains detailed information about Bitcoin transactions associated with our specific target addresses in each csv file . The dataset has been created to analyze transaction patterns, amounts, and the flow of funds for certain entities of interest.
 
-## Data Columns
-
+### Data Features
 Entity: The name of the entity associated with the Bitcoin address.
 
 target_wallet_address: The target Bitcoin address for the transaction.
