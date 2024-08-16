@@ -23,7 +23,7 @@ type: Indicates whether the transaction was "Incoming" or "Outgoing" relative to
 
 
 
-License
+### License
 
 This dataset is provided for educational and research purposes. Ensure that usage complies with all relevant laws and guidelines, particularly when handling sensitive financial data.
 
