@@ -2,7 +2,16 @@
 
 This dataset contains detailed information about Bitcoin transactions associated with our specific target addresses in each csv file . The dataset has been created to analyze transaction patterns, amounts, and the flow of funds for certain entities of interest.
 
-Script to extract and create your own data: data_extraction_script.ipynb 
+this repo consists of data samples for transactions associated with wallets that belong to those organizations:
+1) Infowars (Alex Jones), original BTC address: bc1q0kpk303cljyn62vgve34hcxlztn7zfmh0jgjtf
+2) Infowars (Alex Jones), original BTC address: bc1qt7fhd9dr3k67hjaycu0e09dkt829scxwvhxh20
+3) Infowars (Alex Jones), original BTC address: bc1q5kx8976cz6k3dhlcyht0znh22gr754uygq8xhl
+
+You can bolden the code notebook name in your README file like this:
+
+"Script to extract and create your own data: **`data_extraction_script.ipynb`**" 
+
+This will make `data_extraction_script.ipynb` appear bold in the rendered markdown.
 
 ### Data Features
 Entity: The name of the entity associated with the Bitcoin address.
